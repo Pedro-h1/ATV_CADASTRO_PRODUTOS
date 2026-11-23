@@ -1,11 +1,8 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:777BB4,100:50547D&text=🛒+CADASTRO+DE+PRODUTOS&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🛡️+Cadastro+com+Validação&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:262641,100:777BB4&text=🛒+CADASTRO+DE+PRODUTOS&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🛡️+Cadastro+com+Validação&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🛒+Sobre+o+Desafio;🛡️+Cadastro+de+Produtos+com+Valida%C3%A7%C3%A3o" />
-</div>
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=📋+Descri%C3%A7%C3%A3o+da+Atividade" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%9B%92+Descri%C3%A7%C3%A3o+do+Desafio+%E2%80%94+Cadastro+de+Produtos" />
 </div>
 <div align="center">
     <p>Este projeto consiste na criação de um sistema de <strong>Cadastro de Produtos</strong>, desenvolvido com <strong>PHP, HTML e MySQL</strong>.</p>
@@ -15,7 +12,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🎯+Objetivo+da+Atividade" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%8E%AF+Objetivo+da+Atividade" />
 </div>
 <div align="center">
     <p>Criar um sistema de cadastro <strong>simples, funcional e validado</strong>, utilizando PHP para processar os dados do formulário e MySQL para armazenar os produtos cadastrados.</p>
@@ -24,7 +21,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=📝+Funcionalidades+Implementadas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%93%9D+Funcionalidades+Implementadas" />
 </div>
 <div align="center">
     <p>🛒 <strong>Cadastro de Produtos:</strong> formulário para informar o nome e o preço do produto.</p>
@@ -38,7 +35,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🔧+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%94%A7+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas" />
 </div>
 <div align="center">
 
@@ -59,7 +56,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🗃️+Estrutura+da+Tabela" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%97%83%EF%B8%8F+Estrutura+da+Tabela" />
 </div>
 <div align="center">
 
@@ -71,5 +68,5 @@
 
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:50547D,100:777BB4&section=footer&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:777BB4,100:262641&section=footer&animation=fadeIn" width="100%" />
 </div>
